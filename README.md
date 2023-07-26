@@ -24,3 +24,6 @@ The code consists of:
   - if an insterted genre name already exists
   - free seats for a screening
 - example data insertion
+
+Diagram ER:
+![Diagram ER](https://github.com/juliazubel/SQL-Cinema-DB/blob/main/cinemaER.png)
